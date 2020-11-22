@@ -24,11 +24,6 @@ Before the COVID-19 Pandemic, all of us were so engrossed in our work, Social Li
 * 2nd Prize
 * 3rd Prize
 * Participants Perks
-* Best use of echoAR
-* SashiDO ML Challenge
-* Best Jugaad
-* Best Hardware Hack Sponsored by Digi-Key
-* Best Beginner Hackers
 ## Collaborators 🤖
 * [Souvik Dey](https://github.com/Souvikdey10) - Team Lead
 * [N. Aditya Sai](https://github.com/aadityasai37) 
